@@ -1,1 +1,1 @@
-<img href="https://zvvcki.github.io/CV">📑 Link</img>
+<a href="https://zvvcki.github.io/CV">📑 Link</img>
