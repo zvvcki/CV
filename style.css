@@ -25,9 +25,6 @@ span {
 header,
 section {
     padding: 10px 60px 20px 60px;
-    background-color: white;
-    width: 960px;
-    margin: 0 auto;
 }
 
 header {
@@ -82,7 +79,11 @@ li {
 
 .kontury {
     box-shadow: 0 0 20px grey;
+    background-color: white;
+    width: 960px;
+    margin: 0 auto;
 }
+
 .cv-download-link {
     border: 2px solid cornflowerblue;
     color: black;
