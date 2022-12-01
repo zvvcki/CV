@@ -11,6 +11,7 @@ h2 {
 
 h1 {
     font-size: 36px;
+    margin-bottom: 10px;
 }
 
 h3 {
@@ -40,7 +41,7 @@ header ul {
     list-style: none;
 }
 
-header li {
+li {
     margin-bottom: 15px;
 }
 
@@ -79,6 +80,9 @@ header li {
     margin-left: 15px;
 }
 
+.kontury {
+    box-shadow: 0 0 20px grey;
+}
 .cv-download-link {
     border: 2px solid cornflowerblue;
     color: black;
@@ -88,6 +92,7 @@ header li {
     margin-top: 20px;
     border-radius: 26px;
     transition: background-color 0.5s;
+    box-shadow: 0 0 20px grey;
 }
 
 .cv-download-link:hover {
